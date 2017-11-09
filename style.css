@@ -1,0 +1,42 @@
+.h1 {
+	font-family: "Verdana", sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+	color:black;
+	text-align: center;
+	text-transform: lowercase;
+}
+
+
+.h2 {
+	font-family: "Verdana", sans-serif;
+	font-size: 30px;
+	font-weight: normal;
+	color:DodgerBlue;
+	text-transform:uppercase;
+}
+
+.paragraph {
+	font-family: "Arial", sans-serif;
+	font-size: 12px;
+	padding-left: 300px;
+	padding-right: 300px;
+	list-style-position: inside;
+}
+
+.entirepage {
+	text-align: center;
+}
+body {
+	background-color: lightgray;
+}
+
+img {
+	border: 10px solid black;
+	padding:1px;
+}
+
+.images {
+	height: 200px;
+	width: 200px;
+}
